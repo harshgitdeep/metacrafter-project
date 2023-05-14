@@ -31,7 +31,8 @@ This Solidity contract defines a custom token with the name "Ether" and abbrevia
    - `burn(address _address, uint a)`: Burns `a` tokens from the balance of the `_address` provided. Decreases the total supply and the balance of the `_address`.
 
 ## Authors
-@harshgitdeep
+[@harshgitdeep](https://github.com/harshgitdeep)
+
 
 ## License
 This code is licensed under the MIT license. See the SPDX-License-Identifier tag in the code for more information.
